@@ -1,7 +1,6 @@
 ## Hello 👋
 
-![An illustration showing the Strapi logo and some confetti.]https://zora.co/coin/base:0x7214d3180c312d4a669eed5870d0dff01130d2a4?referrer=0xe94f936047084e718a327eedd8a75f8347d25d02/
-)
+![An illustration showing the Strapi logo and some confetti.]https://x.com/chronor42/status/1906224939557937302?t=QYZWjA9lvPdHmalgWjLUag&s=19)
 
 
 
