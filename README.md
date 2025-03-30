@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![An illustration showing the Strapi logo and some confetti.]https://x.com/chronor42/status/1906224939557937302?t=QYZWjA9lvPdHmalgWjLUag&s=19)
+![An illustration showing the Strapi logo and some confetti.]https://x.com/chronor42/status/1906224939557937302?t=QYZWjA9lvPdHmalgWjLUag&s=19)]
 
 
 
