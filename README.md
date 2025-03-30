@@ -1,5 +1,5 @@
 
-<h1>
+<h
   - 👋 <span style="color: red;">Hi, I’m @chronor</span><br>
   - 👀 <span style="color: green;">I’m interested in ...</span><br>
   - 🌱 <span style="color: blue;">I’m currently learning ...</span><br>
