@@ -1,4 +1,4 @@
-<h1>
+<html>
   <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">
     - 👋 Hi, I’m @chronor
   </span>
